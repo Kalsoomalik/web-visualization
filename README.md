@@ -1,4 +1,7 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
+
+Published Location: https://kalsoomalik.github.io/web-visualization/index.html
+
 
 ## Background
 
